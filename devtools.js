@@ -1,1 +1,1 @@
-chrome.devtools.panels.create("GBF DPM", "logo/logo-48.png", "panel/panel.html");
+chrome.devtools.panels.create("GBF DPM", "icons/icon48.png", "panel/panel.html");

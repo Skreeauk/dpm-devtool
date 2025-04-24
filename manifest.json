@@ -1,12 +1,13 @@
 {
 	"manifest_version": 3,
-	"name": "DPM Devtool",
+	"name": "GBF DPM Devtool",
 	"version": "1.0.2",
 	"devtools_page": "devtools.html",
 	"icons": {
-		"16": "logo/logo-16.png",
-		"48": "logo/logo-48.png",
-		"128": "logo/logo-128.png"
+		"16": "icons/icon16.png",
+		"32": "icons/icon32.png",
+		"48": "icons/icon48.png",
+		"128": "icons/icon128.png"
 	},
 	"host_permissions": [
 		"*://*.granbluefantasy.jp/*",
