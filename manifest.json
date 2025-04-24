@@ -1,7 +1,18 @@
 {
 	"manifest_version": 3,
 	"name": "DPM Devtool",
-	"version": "1.0",
-	"devtools_page": "devtool/devtools.html",
+	"version": "1.0.2",
+	"devtools_page": "devtools.html",
+	"icons": {
+		"16": "logo/logo-16.png",
+		"48": "logo/logo-48.png",
+		"128": "logo/logo-128.png"
+	},
+	"host_permissions": [
+		"*://*.granbluefantasy.jp/*",
+		"*://gbf.game.mbga.jp/*",
+		"*://*.akamaized.net/*",
+		"*://localhost/*"
+	],
 	"permissions": ["storage"]
 }
